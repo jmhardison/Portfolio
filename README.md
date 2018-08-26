@@ -6,11 +6,11 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 * [Hello Android](https://github.com/jmhardison/udacity-andb-helloandroid)
 * [Happy Birthday](https://github.com/jmhardison/udacity-andb-happybirthday)
-* [Court Counter](https://github.com/jmhardison/udacity-andb-courtcounter)
-* [Just Java](https://github.com/jmhardison/udacity-andb-justjava)
 * [Happy Coffee Break](https://github.com/jmhardison/udacity-andb-happycoffeebreak)
+* [Court Counter](https://github.com/jmhardison/udacity-andb-courtcounter)
 * [Cookies](https://github.com/jmhardison/udacity-andb-cookies)
 * [Menu](https://github.com/jmhardison/udacity-andb-menu)
+* [Just Java](https://github.com/jmhardison/udacity-andb-justjava)
 * [Quiz App](https://github.com/jmhardison/udacity-andb-quizapp)
 
 ## Education: Udacity Android Basics Nanodegree (GwG Scholarship Winner)
