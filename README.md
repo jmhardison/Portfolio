@@ -23,4 +23,6 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 * [News App](https://github.com/jmhardison/andb_project_newsapp)
 * [Inventory App](https://github.com/jmhardison/andb_project_inventoryapp)
 
+[Android Basics Nanodegree Certificate](https://confirm.udacity.com/49XHYAUZ)
 
+![certificate](./images/andbcertificate.PNG)
