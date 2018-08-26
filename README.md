@@ -25,7 +25,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 [Android Basics Nanodegree Certificate](https://confirm.udacity.com/49XHYAUZ)
 
-![certificate](./images/andbcertificate.PNG)
+[![certificate](./images/andbcertificate.PNG)](https://confirm.udacity.com/49XHYAUZ)
 
 
 ## Education: Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
