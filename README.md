@@ -74,3 +74,13 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
   * This web service is used in a F5 ILX workflow to return an email address for a given user id.
   * [Repository](https://github.com/jmhardison/f5otpuseremailmapping)
 
+
+## Certifications: New and Old
+
+* `DCA` Docker Certified Associate (active)
+* `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive)
+* `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive)
+* `CCNA` Cisco Certified Network Associate (Inactive)
+* `CCDA` Cisco Certified Design Associate (Inactive)
+* `ACA` Avaya Certified Associate (Inactive)
+* `CCEA` Citrix Certified Enterprise Administrator (Inactive)
