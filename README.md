@@ -77,7 +77,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 ## Certifications: New and Old
 
-* `DCA` Docker Certified Associate (active)
+* `DCA` Docker Certified Associate (active) [Verify](https://credentials.docker.com/bo35ms0e)
 * `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive)
 * `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive)
 * `CCNA` Cisco Certified Network Associate (Inactive)
