@@ -36,6 +36,12 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 * Apple Picker
   * [Repository](https://github.com/jmhardison/igdpd-applepicker)
 
+## Education: Udemy Ultimate Guide to Game Development with Unity
+
+* Galaxy Shooter
+  * [Repository](https://github.com/jmhardison/learning-galaxy-shooter)
+  * [WebGL Game](https://www.jonathanhardison.com/learning-galaxy-shooter)
+
 ## Side Projects and Tinkers
 
 * [IsGame.Online](https://isgame.online)
