@@ -1,5 +1,3 @@
-# Portfolio
-
 Hello and welcome to my little portfolio of work. Below you'll find some education related projects, personal projects, and tinker-ville projects that I've worked on over time.
 
 ## Education: Udacity Grow with Google Challenge
