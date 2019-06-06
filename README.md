@@ -29,10 +29,10 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 ## Education: Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
 
 * Boids
-  * [Repository](https://github.com/jmhardison/igdpd-boids)
+  * [Repository](https://gitlab.com/jmhardison/igdpd-boids)
 
 * Apple Picker
-  * [Repository](https://github.com/jmhardison/igdpd-applepicker)
+  * [Repository](https://gitlab.com/jmhardison/igdpd-applepicker)
 
 ## Education: Udemy Ultimate Guide to Game Development with Unity
 
