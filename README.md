@@ -37,7 +37,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 ## Education: Udemy Ultimate Guide to Game Development with Unity
 
 * Galaxy Shooter
-  * [Repository](https://github.com/jmhardison/learning-galaxy-shooter)
+  * [Repository](https://gitlab.com/jmhardison/learning-galaxy-shooter)
   * [WebGL Game](https://www.jonathanhardison.com/learning-galaxy-shooter)
 
 ## Side Projects and Tinkers
