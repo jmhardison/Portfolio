@@ -90,6 +90,6 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 * `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
 * `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
 * `CCNA` Cisco Certified Network Associate (Inactive) (`CSCO10414355`)
-* `CCDA` Cisco Certified Design Associate (Inactive) (`SCO10414355`)
+* `CCDA` Cisco Certified Design Associate (Inactive) (`CSCO10414355`)
 * `ACA` Avaya Certified Associate (Inactive) 
 * `CCEA` Citrix Certified Enterprise Administrator (Inactive) (`CTX141469`)
