@@ -25,6 +25,11 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 [![certificate](./images/andbcertificate.PNG)](https://confirm.udacity.com/49XHYAUZ)
 
+## Education: Coursera - Google Crash Course on Python
+
+[Google Crash Course on Python](https://coursera.org/verify/K4XWHVFWBLFQ)
+
+[![certificate](./images/coursera-google-python-screen.PNG)](https://coursera.org/verify/K4XWHVFWBLFQ)
 
 ## Education: Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
 
