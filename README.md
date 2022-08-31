@@ -29,7 +29,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 [Google Crash Course on Python](https://coursera.org/verify/K4XWHVFWBLFQ)
 
-[![certificate](./images/coursera-google-python-screen.PNG)](https://coursera.org/verify/K4XWHVFWBLFQ)
+[![certificate](./images/coursera-google-python-screen.png)](https://coursera.org/verify/K4XWHVFWBLFQ)
 
 ## Education: Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
 
