@@ -47,8 +47,12 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 ## Side Projects and Tinkers
 
+* HHOUSE-APPS
+  * This project combines use of Cloudflare Argo Tunnels, 1Password, ArgoCD, and GitHub Actions for access and deployment automation to K8S.
+  * Deploys into a lab cluster, but useful to peruse for info and examples.
+  * [Repository](https://github.com/jmhardison/hhouse-apps)
+
 * [IsGame.Online](https://isgame.online)
-  
   * A simple tromp through learning NodeJS, through the creation of an Amazon Alexa Skill.
   * Simple skill that checks the online status of select video games. For example, Secret World Legends.
   * [Repository](https://github.com/jmhardison/isgame-online-lambda)
@@ -61,10 +65,6 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
   * Forked from Jade Auer, and maintained after Jade deprecated her distribution.
   * Simple containerized moodle image using linked repositories and git repo monitoring to inact rebuilds.
   * [Repository](https://github.com/jmhardison/docker-moodle)
-
-* [BracePlace.biz](https://www.braceplace.biz)
-  * Website using community themes and JekyllRB for an orthadontist.
-  * [Repository](https://github.com/jmhardison/braceplace-biz)
 
 * [LuckyStrikeFarm.com](https://www.luckystrikefarm.com)
   * General blank JekyllRB site for a plot of property.
@@ -88,9 +88,9 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
   * Cross platform release with Azure Pipelines delivering both linux and windows containers to hub.docker.com.
   * [Repository](https://github.com/jmhardison/nodeverify)
 
-
 ## Certifications: New and Old
 
+* `MCA` Microsoft Certified: Azure Administrator Associate [Verify](https://learn.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv)
 * `DCA` Docker Certified Associate (Inactive) [Verify](https://credentials.docker.com/bo35ms0e)
 * `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
 * `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
