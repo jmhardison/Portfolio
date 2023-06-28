@@ -47,7 +47,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 ## Side Projects and Tinkers
 
-* HHOUSE-APPS
+* [HHOUSE-APPS](https://github.com/jmhardison/hhouse-apps)
   * This project combines use of Cloudflare Argo Tunnels, 1Password, ArgoCD, and GitHub Actions for access and deployment automation to K8S.
   * Deploys into a lab cluster, but useful to peruse for info and examples.
   * [Repository](https://github.com/jmhardison/hhouse-apps)
