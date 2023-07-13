@@ -31,6 +31,14 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 [![certificate](./images/coursera-google-python-screen.png)](https://coursera.org/verify/K4XWHVFWBLFQ)
 
+## Education: Codecademy - Fundamentals of Cybersecurity Skill Path
+
+[Fundamentals of Cybersecurity Skill Path](https://coursera.org/verify/K4XWHVFWBLFQ)
+
+[![certificate](./images/CA-FundamentalsofCybersecuritySkillPath.png)](https://www.codecademy.com/profiles/jhardison/certificates/06984a073b064e61879cca3e82a9b3d2)
+
+
+
 ## Education: Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
 
 * Boids
