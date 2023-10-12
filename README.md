@@ -1,6 +1,33 @@
 Hello and welcome to my little portfolio of work. Below you'll find some education related projects, personal projects, and tinker-ville projects that I've worked on over time.
 
-## Education: Udacity Grow with Google Challenge
+# Certifications: New and Old
+
+* `CKA` Certified Kubernetes Administrator [Verify](https://www.credly.com/badges/b4deb945-0da5-422c-8df6-fe5e68e22e6b/public_url)
+* `MCA` Microsoft Certified: Azure Administrator Associate [Verify](https://learn.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv)
+* `DCA` Docker Certified Associate (Inactive) [Verify](https://credentials.docker.com/bo35ms0e)
+* `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
+* `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
+* `CCNA` Cisco Certified Network Associate (Inactive) (`CSCO10414355`)
+* `CCDA` Cisco Certified Design Associate (Inactive) (`CSCO10414355`)
+* `ACA` Avaya Certified Associate (Inactive)
+* `CCEA` Citrix Certified Enterprise Administrator (Inactive) (`CTX141469`)
+
+# Education
+The following is a rolling list of various bits and bobs of education. Some related, some fringe, all worth it.
+
+## Codecademy - Fundamentals of Cybersecurity Skill Path
+
+[Fundamentals of Cybersecurity Skill Path](https://coursera.org/verify/K4XWHVFWBLFQ)
+
+[![certificate](./images/CA-FundamentalsofCybersecuritySkillPath.png)](https://www.codecademy.com/profiles/jhardison/certificates/06984a073b064e61879cca3e82a9b3d2)
+
+## Coursera - Google Crash Course on Python
+
+[Google Crash Course on Python](https://coursera.org/verify/K4XWHVFWBLFQ)
+
+[![certificate](./images/coursera-google-python-screen.png)](https://coursera.org/verify/K4XWHVFWBLFQ)
+
+## Udacity Grow with Google Challenge
 
 * [Hello Android](https://github.com/jmhardison/udacity-andb-helloandroid)
 * [Happy Birthday](https://github.com/jmhardison/udacity-andb-happybirthday)
@@ -11,7 +38,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 * [Just Java](https://github.com/jmhardison/udacity-andb-justjava)
 * [Quiz App](https://github.com/jmhardison/udacity-andb-quizapp)
 
-## Education: Udacity Android Basics Nanodegree (GwG Scholarship Winner)
+## Udacity Android Basics Nanodegree (GwG Scholarship Winner)
 
 * [Single Screen](https://github.com/jmhardison/andb_project_singlescreen)
 * [Score Keeper](https://github.com/jmhardison/andb_project_scorekeeper)
@@ -25,21 +52,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 [![certificate](./images/andbcertificate.PNG)](https://confirm.udacity.com/49XHYAUZ)
 
-## Education: Coursera - Google Crash Course on Python
-
-[Google Crash Course on Python](https://coursera.org/verify/K4XWHVFWBLFQ)
-
-[![certificate](./images/coursera-google-python-screen.png)](https://coursera.org/verify/K4XWHVFWBLFQ)
-
-## Education: Codecademy - Fundamentals of Cybersecurity Skill Path
-
-[Fundamentals of Cybersecurity Skill Path](https://coursera.org/verify/K4XWHVFWBLFQ)
-
-[![certificate](./images/CA-FundamentalsofCybersecuritySkillPath.png)](https://www.codecademy.com/profiles/jhardison/certificates/06984a073b064e61879cca3e82a9b3d2)
-
-
-
-## Education: Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
+## Introduction to GAME DESIGN, PROTOTYPING, and DEVELOPMENT
 
 * Boids
   * [Repository](https://gitlab.com/jmhardison/igdpd-boids)
@@ -47,13 +60,13 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 * Apple Picker
   * [Repository](https://gitlab.com/jmhardison/igdpd-applepicker)
 
-## Education: Udemy Ultimate Guide to Game Development with Unity
+## Udemy Ultimate Guide to Game Development with Unity
 
 * Galaxy Shooter
   * [Repository](https://gitlab.com/jmhardison/learning-galaxy-shooter)
   * [WebGL Game](https://www.jonathanhardison.com/learning-galaxy-shooter)
 
-## Side Projects and Tinkers
+# Side Projects and Tinkers
 
 * [HHOUSE-APPS](https://github.com/jmhardison/hhouse-apps)
   * This project combines use of Cloudflare Argo Tunnels, 1Password, ArgoCD, and GitHub Actions for access and deployment automation to K8S.
@@ -96,13 +109,4 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
   * Cross platform release with Azure Pipelines delivering both linux and windows containers to hub.docker.com.
   * [Repository](https://github.com/jmhardison/nodeverify)
 
-## Certifications: New and Old
 
-* `MCA` Microsoft Certified: Azure Administrator Associate [Verify](https://learn.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv)
-* `DCA` Docker Certified Associate (Inactive) [Verify](https://credentials.docker.com/bo35ms0e)
-* `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
-* `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
-* `CCNA` Cisco Certified Network Associate (Inactive) (`CSCO10414355`)
-* `CCDA` Cisco Certified Design Associate (Inactive) (`CSCO10414355`)
-* `ACA` Avaya Certified Associate (Inactive) 
-* `CCEA` Citrix Certified Enterprise Administrator (Inactive) (`CTX141469`)
