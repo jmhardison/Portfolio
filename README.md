@@ -4,7 +4,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 * `CKA` Certified Kubernetes Administrator [Verify](https://www.credly.com/badges/b4deb945-0da5-422c-8df6-fe5e68e22e6b/public_url)
 * `MCA` Microsoft Certified: Azure Administrator Associate [Verify](https://learn.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv)
-* `DCA` Docker Certified Associate (Inactive) [Verify](https://credentials.docker.com/bo35ms0e)
+* `DCA` Docker Certified Associate (Inactive) [Verify](https://certification.mirantis.com/4cd80bbc-dff6-479a-baaf-a6fc96a0b9fa)
 * `MCSE` Microsoft Certified Systems Engineer on 2000, 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
 * `MCSA` `Charter Member` Microsoft Certified Systems Administrator on 2003 (Inactive) [Verify](https://docs.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv?source=docs) (`1753103`)
 * `CCNA` Cisco Certified Network Associate (Inactive) (`CSCO10414355`)
