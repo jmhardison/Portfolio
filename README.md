@@ -88,10 +88,6 @@ The following is a rolling list of various bits and bobs of education. Some rela
   * Simple containerized moodle image using linked repositories and git repo monitoring to inact rebuilds.
   * [Repository](https://github.com/jmhardison/docker-moodle)
 
-* [LuckyStrikeFarm.com](https://www.luckystrikefarm.com)
-  * General blank JekyllRB site for a plot of property.
-  * [Repository](https://github.com/jmhardison/luckystrikefarm-com)
-
 * [ADFS User Mapping API](https://github.com/jmhardison/adfsusermappingapi)
   * ADFS User Mapping API backend for returning a UPN of input value. (Proof of Concept)
   * This tool was quickly put together to prove the concept of altering a user account that is entered into a username field in the ADFS portal authenticaiton, and transforming it into a different ID.
