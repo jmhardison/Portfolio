@@ -2,6 +2,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 # Certifications: New and Old
 
+* `LE-1` Linux Essentials [Verify](https://lpi.org/v/LPI000255437/97f3uzxxrm) 
 * `CKA` Certified Kubernetes Administrator [Verify](https://www.credly.com/badges/b4deb945-0da5-422c-8df6-fe5e68e22e6b/public_url)
 * `MCA` Microsoft Certified: Azure Administrator Associate [Verify](https://learn.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv)
 * `DCA` Docker Certified Associate (Inactive) [Verify](https://certification.mirantis.com/4cd80bbc-dff6-479a-baaf-a6fc96a0b9fa)
