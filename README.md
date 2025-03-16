@@ -2,7 +2,7 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 # Certifications: New and Old
 
-* `LE-1` Linux Essentials [Verify](https://lpi.org/v/LPI000255437/97f3uzxxrm) 
+* `LE-1` Linux Essentials [Verify](https://lpi.org/v/LPI000255437/97f3uzxxrm)
 * `CKA` Certified Kubernetes Administrator [Verify](https://www.credly.com/badges/b4deb945-0da5-422c-8df6-fe5e68e22e6b/public_url)
 * `MCA` Microsoft Certified: Azure Administrator Associate [Verify](https://learn.microsoft.com/en-us/users/jhardison/transcript/qde3c6n843e0zzv)
 * `DCA` Docker Certified Associate (Inactive) [Verify](https://certification.mirantis.com/4cd80bbc-dff6-479a-baaf-a6fc96a0b9fa)
@@ -15,6 +15,11 @@ Hello and welcome to my little portfolio of work. Below you'll find some educati
 
 # Education
 The following is a rolling list of various bits and bobs of education. Some related, some fringe, all worth it.
+
+## Western Governors University - Bachelors of Science, Computer Science
+
+Updated AI/ML focused curriculum.
+Graduated March 14, 2025.
 
 ## Codecademy - Fundamentals of Cybersecurity Skill Path
 
@@ -100,7 +105,7 @@ The following is a rolling list of various bits and bobs of education. Some rela
 * [F5 OTP User Email Mapping](https://github.com/jmhardison/f5otpuseremailmapping)
   * This web service is used in a F5 ILX workflow to return an email address for a given user id.
   * [Repository](https://github.com/jmhardison/f5otpuseremailmapping)
-  
+
 * [NodeVerify](https://github.com/jmhardison/nodeverify)
   * This project is used to create generic CPU load in conjunction with a load generator. It was a basic app used in testing and validating container orchestrators.
   * Cross platform release with Azure Pipelines delivering both linux and windows containers to hub.docker.com.
