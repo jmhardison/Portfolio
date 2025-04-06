@@ -18,8 +18,12 @@ The following is a rolling list of various bits and bobs of education. Some rela
 
 ## Western Governors University - Bachelors of Science, Computer Science
 
-Updated AI/ML focused curriculum.
-Graduated March 14, 2025.
+[![bscsdegree](./images/wgudegree.png)](/pdfs/BSCS-Diploma-CeD.255X-W2EK-J4NL.pdf)
+
+
+- [Validation Code:](https://www.wgu.edu/alumni/e-diploma-verification/validate.html) `255X-W2EK-J4NL`
+- Updated AI/ML focused curriculum.
+- Graduated March 14, 2025.
 
 ## Codecademy - Fundamentals of Cybersecurity Skill Path
 
